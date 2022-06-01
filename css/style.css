@@ -475,6 +475,7 @@ a.icon {
 
 #portfolio img {
   width: 100%;
+ object-fit: cover;
 }
 
 #portfolio .portfolio-thumb {
@@ -946,6 +947,8 @@ footer {
   color:yellow;
 }
 .gh{
+  align-items: center;
+  display: inline;
   width: 400px;
   height: 370px;
 }
@@ -976,7 +979,7 @@ font-family: 'Kanit', sans-serif;
 
 
 
-/* bbb */
+/* bbb
 .main-timeline{ font-family: 'Cairo', sans-serif; }
 .main-timeline:after{
     content: '';
@@ -1082,7 +1085,8 @@ font-family: 'Kanit', sans-serif;
 }
 .ghh{
   font-size: 1.9rem;
-}
+  text-align: center;
+} */
 
 /* hh */
 
